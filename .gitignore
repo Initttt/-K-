@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.cache/
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
+playwright-report/
+.DS_Store
+output/playwright/report/
+output/playwright/test-backup.json
